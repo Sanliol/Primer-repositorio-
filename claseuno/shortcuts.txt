@@ -1,0 +1,27 @@
+ATAJOS EN HTML
+
+!                                   Genera estructura básica html
+html5                               Genera estructura básica html
+h
+Alt+Shift+A                         Comentar/Descomentar. Sirve para estudiar, advertencias, probar mi codigo por ejemplo comentando
+                                    una linea o bloque de codigo, dejandola sin efecto y viendo como funciona.
+Ctrol+K+C                           IDEM al anterior pero te comenta toda la linea de codigo
+Ctrol+C                             Copy
+Ctrol+V                             Paste
+Ctrol+x                             Copy and Cut. Copia la linea o bloque de codigo y la elimina para pegarla luego 
+                                    en la linea de deseemos
+Ctrol+Z                             Deshacer
+Ctrol+Y                             Rehacer
+Shift+flechitas                     Selecciona linea
+Alt+flecha arriba y abajo           Mueve linea de codigo o bloque    
+Alt+flecha al costado               Cambia de pestañas en mi editor
+Alt+Click+diferentes lineas         Multicursor: para escribir lo mismo en varias lineas simultaneamente.
+Ctrol+S                             Guardar
+Alt+Z                               Alinea el texto cuando es muy largo(baja a la linea de abajo) 
+
+
+
+
+
+
+
